@@ -1,0 +1,15 @@
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.csproj.AssemblyReference.cache
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.AssemblyInfoInputs.cache
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.AssemblyInfo.cs
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\bin\Debug\net6.0\SRTEditor.exe
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\bin\Debug\net6.0\SRTEditor.deps.json
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\bin\Debug\net6.0\SRTEditor.runtimeconfig.json
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\bin\Debug\net6.0\SRTEditor.dll
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\bin\Debug\net6.0\SRTEditor.pdb
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.dll
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\refint\SRTEditor.dll
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.pdb
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\SRTEditor.genruntimeconfig.cache
+C:\Users\rafal\source\repos\Zadanie\SRTEditor\SRTEditor\obj\Debug\net6.0\ref\SRTEditor.dll

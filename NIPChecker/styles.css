@@ -1,0 +1,20 @@
+.naglowek{
+	color: blue;
+	background-color: black;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font: lighter;
+	
+}
+.stopka{
+	color: gray;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font: lighter;
+	
+}
+.formularz{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rezultat{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: ghostwhite;
+}
